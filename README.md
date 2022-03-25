@@ -1,7 +1,9 @@
 ### Hi! 👋
-# My name is Nikolai Vorotnev 😃
-# On 2022 I'm a student of ITMO University
-# You can contact me in Telegram: @vrtnev 📧
+My name is Nikolai Vorotnev 😃
+
+On 2022 I'm a student of ITMO University
+
+You can contact me in Telegram: @vrtnev 📧
 
 <!--
 **vrtnev/vrtnev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
