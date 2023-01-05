@@ -1,8 +1,6 @@
 ### Hi! 👋
 My name is Nikolai Vorotnev 😃
 
-On 2022 I'm a student of ITMO University
-
 You can contact me in Telegram: @vrtnev 📧
 
 <!--
